@@ -15,7 +15,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F731CB&multiline=true&repeat=false&width=435&lines=Développeur+Full+Stack+et+SysAdmin;Passionné+par+la+tech+et+la+cybersécurité;Toujours+à+la+recherche+de+nouveaux+défis" alt="Typing SVG" /></a>
 
-Je suis une développeuse passionné de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système. J'aime résoudre des problèmes complexes et créer des solutions innovantes.
+Je suis une développeuse passionnée de logiciels, originaire du Cameroun 🇨🇲, avec une expertise en développement Full Stack et en administration système. J'aime résoudre des problèmes complexes et créer des solutions innovantes.
 
 🔭 **Je travaille actuellement sur** :  
 - Un système de nettoyage interne pour PC  
