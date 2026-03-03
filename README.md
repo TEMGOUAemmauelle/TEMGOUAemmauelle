@@ -135,11 +135,11 @@ class TechWizard:
 ## 🚀 Projets Récents  
 
 📌 **Mise en Place d'un Système de Messagerie Sécurisé**  
-> 🔹 **Technologies utilisées** : Active Directory, Snort, Graylog, Kali Linux  
+> 🔹 **Technologies utilisées** : Active Directory, Snort, Graylog, Kali Linux
 > 🔹 **Description** : Solution basée sur la gestion centralisée des logs et événements du réseau intranet de CAMTEL, avec recommandations pour l'authentification multifacteurs et la segmentation.  
 
 📌 **Cloud & Virtualisation**  
-> 🔹 **Technologies utilisées** : Docker, Kubernetes, SDN  
+> 🔹 **Technologies utilisées** : Docker, Kubernetes, SDN, C, Rust,Perf
 > 🔹 **Description** : Résilience d'un système vidéo conteneurisé en environnement SDN face aux fluctuations de bande passante.  
 
 📌 **Développement Web**  
