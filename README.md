@@ -9,6 +9,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TEMGOUAemmauelle&color=blueviolet)](https://github.com/TEMGOUAemmauelle)
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=200&section=header&text=Emmanuelle%20TEMGOUA&fontSize=45" />
+</p>
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 8.5%> À propos de moi
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
