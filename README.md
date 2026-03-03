@@ -27,18 +27,11 @@ Je suis Emmanuelle TEMGOUA, étudiante ingénieure à l’École Polytechnique d
 
 🚀 Objectif : Devenir experte en cybersécurité & cloud architecture.
 
-🔭 **Je travaille actuellement sur** :  
-- Un système de nettoyage interne pour PC  
-
-🌱 **J'apprends actuellement** :  
-- Docker, Kubernetes et les réseaux SDN pour la résilience des systèmes conteneurisés.  
-- AWS pour le déploiement et la gestion de services cloud.  
-
 💬 **Demandez-moi** :  
 - Node.js, React, Angular, Laravel... ou tout autre sujet lié à la tech !  
 
 ⚡ **Fun fact** :  
-Les capes de la Garde de Nuit dans *Game of Thrones* sont faites à partir de tapis Ikea. 😄  
+Les capes de la Garde de Nuit dans *Dr Stone* sont faites à partir de tapis Ikea. 😄  
 
 <table>
 <tr>
