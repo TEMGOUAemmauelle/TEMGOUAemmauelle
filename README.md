@@ -5,8 +5,15 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Je+m'appelle+Emmanuelle+TEMGOUA+;Je+suis+une+etudiante+passionnée+)](https://git.io/typing-svg)
-[![Profile Views](https://komarev.com/ghpvc/?username=TEMGOUAemmauelle&color=blueviolet)](https://github.com/TEMGOUAemmauelle)
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Cloud+Engineering+Student;Full+Stack+Developer;Building+Secure+Systems)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=TEMGOUAemmauelle&color=8A2BE2&style=flat-square)](https://github.com/TEMGOUAemmauelle)
+
+</p>
 </div>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 8.5%> À propos de moi
