@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20Gates%20Tems%20🤖&fontSize=90&animation=fadeIn" alt="Gates Tems Animation" width="1000"/>
-  <img src="https://github.com/TEMGOUAemmauelle/TEMGOUAemmauelle/blob/output/.github/snake/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/TEMGOUAemmauelle/TEMGOUAemmauelle/output/.github/snake/github-contribution-grid-snake.svg" 
+       alt="GitHub Contributions Snake" 
+       width="700" 
+       style="border-radius:10px;"/>
 </p>
 
 <div align="center">
