@@ -159,7 +159,13 @@ class TechWizard:
   <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" width="200" style="border-radius: 15px;" />
   <img src="https://img.shields.io/badge/Graylog-5F5F5F?style=for-the-badge&logo=graylog&logoColor=white" width="100" style="border-radius: 15px;" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="100" style="border-radius: 15px;" />
-</p>  
+
+  <!-- Ajouts -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width="100" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" width="100" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/perf-FF6F00?style=for-the-badge&logo=linux&logoColor=white" width="100" style="border-radius: 15px;" />
+  <img src="https://img.shields.io/badge/eBPF-FF0000?style=for-the-badge&logo=linux&logoColor=white" width="100" style="border-radius: 15px;" />
+</p>
 
 ### 💻 Développement  
 <p align="center">
