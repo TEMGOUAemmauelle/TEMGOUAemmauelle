@@ -123,7 +123,7 @@ class TechWizard:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEMGOUAemmauelle&bg_color=0d1117&color=CBC3E3&line=FF6B00&point=FFFFFF&area=true&area_color=702963&hide_border=true&**nocache=1**" alt="Graphique des contributions" />
 <!-- Trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TEMGOUAemmauelle&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TEMGOUAemmauelle&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 </div>
 
 ---
