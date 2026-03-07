@@ -192,9 +192,9 @@ class TechWizard:
 
 ## 🎉 Fun Fact  
 💡 **Quand je ne code pas, je fais quoi ?**  
-- 🎮 **Je joue aux jeux**  
+- 🎮 **Je ne joue pas aux jeux**  
 - 🎧 **Je vibe sur du bon son (Blue, Jazz, Hip-Hop)**  
-- 📚 **Je regarde des video tech & cyber**  
+- 📚 **Je binge des vidéos tech & cyber (parce que la curiosité ne dort jamais)**  
 
 ---
 ## 🐍 Mon graphe de contributions  
