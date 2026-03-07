@@ -24,7 +24,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F731CB&multiline=true&repeat=false&width=435&lines=Développeur+Full+Stack+et+SysAdmin;Passionné+par+la+tech+et+la+cybersécurité;Toujours+à+la+recherche+de+nouveaux+défis" alt="Typing SVG" /></a>
 
 
-Je suis Emmanuelle TEMGOUA, étudiante ingénieure à l’École Polytechnique de Yaoundé 🇨🇲, passionnée par la cybersécurité, le cloud computing et les systèmes distribués.
+I am Emmanuelle TEMGOUA, an engineering student at the École Polytechnique de Yaoundé 🇨🇲, passionate about cybersecurity, cloud computing, and distributed systems.
 
 🔐 Je m’intéresse particulièrement à :
 - La sécurisation des infrastructures
