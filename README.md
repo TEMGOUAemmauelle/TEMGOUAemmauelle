@@ -25,21 +25,24 @@
 
 
 I am Emmanuelle TEMGOUA, an engineering student at the École Polytechnique de Yaoundé 🇨🇲, passionate about cybersecurity, cloud computing, and distributed systems.
+🔐 I’m particularly interested in:
 
-🔐 Je m’intéresse particulièrement à :
-- La sécurisation des infrastructures
-- La résilience des systèmes conteneurisés
-- L’architecture Cloud & DevOps
+  - Infrastructure security
 
-💡 J’aime concevoir des solutions robustes, performantes et sécurisées.
+  - Resilience of containerized systems
 
-🚀 Objectif : Devenir experte en cybersécurité & cloud architecture.
+  - Cloud architecture & DevOps
 
-💬 **Demandez-moi** :  
-- Node.js, React, Angular, Laravel... ou tout autre sujet lié à la tech !  
+💡 I enjoy designing robust, high-performance, and secure solutions.
 
-⚡ **Fun fact** :  
-Les capes de la Garde de Nuit dans *Dr Stone* sont faites à partir de tapis Ikea. 😄  
+🚀 Goal: To become an expert in cybersecurity & cloud architecture.
+
+💬 Ask me about:
+
+   Node.js, React, Angular, Laravel... or any other tech-related topic!
+
+⚡ Fun fact:
+The Night Guard cloaks in Dr. Stone are made from Ikea rugs. 😄
 
 <table>
 <tr>
